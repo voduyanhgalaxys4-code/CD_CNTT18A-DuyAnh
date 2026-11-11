@@ -26,7 +26,7 @@ node -v
 
 Kết quả: v26.13.0.
 
-<img width="195" height="61" alt="image" src="https://github.com/user-attachments/assets/98279ad0-b6cf-4df7-9bf3-7aae18c035b3" />
+<img width="403" height="53" alt="image" src="https://github.com/user-attachments/assets/afcc7b86-dc9a-4a78-bbfa-a5e37ce32742" />
 
 Bước 6: Kiểm tra phiên bản npm bằng lệnh:
 
@@ -34,11 +34,13 @@ npm -v
 
 Kết quả: 11.20.0.
 
-<img width="193" height="53" alt="image" src="https://github.com/user-attachments/assets/4c767b69-4a08-43ad-b4e0-5b46e2634e31" />
+<img width="389" height="47" alt="image" src="https://github.com/user-attachments/assets/c0c632a6-01ed-4411-a4cb-ac804387cc8a" />
 
 Bước 7: Nhập lệnh sau để chạy chương trình:
 
 node hello.js
+
+<img width="413" height="51" alt="image" src="https://github.com/user-attachments/assets/3d32204b-2c2b-48a5-a3d6-b019478d2353" />
 
 2.MÔ TẢ KẾT QUẢ THỰC HIỆN
 
