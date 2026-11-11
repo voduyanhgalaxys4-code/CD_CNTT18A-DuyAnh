@@ -2,11 +2,27 @@
 
 Bước 1: Mở Visual Studio Code (VS Code).
 
-Bước 2: Chọn File → Open Folder, mở thư mục CD_CNTT18A-DuyAnh chứa tập tin hello.js.
+Bước 2: Chọn File → Open Folder, mở thư mục CD_CNTT18A-DuyAnh
 
 Bước 3: Mở Terminal → New Terminal để mở cửa sổ dòng lệnh.
 
-Bước 4: Tạo tập tin hello.js bằng Notepad.
+Bước 4: Kiểm tra phiên bản Node.js bằng lệnh:
+
+node -v
+
+Kết quả: v26.13.0.
+
+<img width="403" height="53" alt="image" src="https://github.com/user-attachments/assets/afcc7b86-dc9a-4a78-bbfa-a5e37ce32742" />
+
+Bước 5: Kiểm tra phiên bản npm bằng lệnh:
+
+npm -v
+
+Kết quả: 11.20.0.
+
+<img width="389" height="47" alt="image" src="https://github.com/user-attachments/assets/c0c632a6-01ed-4411-a4cb-ac804387cc8a" />
+
+Bước 6: Tạo tập tin hello.js bằng Notepad.
 
 Nhập lệnh sau trong Terminal:
 
@@ -19,22 +35,6 @@ Nếu xuất hiện thông báo tạo file mới, chọn Yes.
 Nhập nội dung chương trình:
 
 console.log("Hello Node.js");
-
-Bước 5: Kiểm tra phiên bản Node.js bằng lệnh:
-
-node -v
-
-Kết quả: v26.13.0.
-
-<img width="403" height="53" alt="image" src="https://github.com/user-attachments/assets/afcc7b86-dc9a-4a78-bbfa-a5e37ce32742" />
-
-Bước 6: Kiểm tra phiên bản npm bằng lệnh:
-
-npm -v
-
-Kết quả: 11.20.0.
-
-<img width="389" height="47" alt="image" src="https://github.com/user-attachments/assets/c0c632a6-01ed-4411-a4cb-ac804387cc8a" />
 
 Bước 7: Nhập lệnh sau để chạy chương trình:
 
