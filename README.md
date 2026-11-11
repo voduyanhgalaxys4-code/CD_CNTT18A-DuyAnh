@@ -7,5 +7,6 @@ Tập tin hello.js: Đã tạo tập tin JavaScript chứa hai câu lệnh conso
 Kết quả thực thi: Khi chạy lệnh node hello.js, chương trình hiển thị hai dòng chữ trên CMD. Điều này chứng tỏ Node.js đã thực thi thành công tập tin JavaScript.
 
 GitHub: Đã tạo repository để lưu trữ mã nguồn và nội dung bài thực hành.
+
 <img width="439" height="463" alt="image" src="https://github.com/user-attachments/assets/950f45d4-50c3-414b-9e6a-795a3d8b976a" />
 
