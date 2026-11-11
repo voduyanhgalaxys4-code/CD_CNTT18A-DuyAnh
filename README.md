@@ -54,4 +54,3 @@ Chương trình được thực thi thành công bằng lệnh node hello.js.
 
 Hàm console.log() hiển thị nội dung Hello Node.js trên Terminal.
 
-<img width="357" height="61" alt="image" src="https://github.com/user-attachments/assets/600f03c2-36bd-4684-84c5-bcb1aa744fee" />
