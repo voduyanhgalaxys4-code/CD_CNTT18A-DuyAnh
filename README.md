@@ -57,8 +57,7 @@ Chọn Yes nếu Notepad hỏi tạo tập tin mới.
 
 Nhập nội dung chương trình:
 
-console.log("Hello, Node.js!");
-console.log("Toi dang hoc lap trinh Node.js.");
+console.log("Hello, Node.js");
 
 Nhấn Ctrl + S để lưu tập tin hello.js.
 
@@ -96,7 +95,5 @@ Bước 8: Đưa sản phẩm lên GitHub
 Mở repository nodejs-bai1 vừa tạo.
 
 Tải tập tin hello.js lên repository.
-
-Tạo hoặc cập nhật README.md để trình bày các bước thực hiện.
 
 Kiểm tra lại các tập tin đã được tải lên thành công.
