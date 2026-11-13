@@ -1,4 +1,4 @@
-1. Cách chạy tập tin bai01.js
+## 1. Cách chạy tập tin bai01.js
 
 Bước 1: Mở Visual Studio Code.
 
@@ -18,7 +18,7 @@ node bai01.js
 
 Bước 7: Nhấn Enter để thực thi chương trình.
 
-2. Mô tả kết quả
+## 2. Mô tả kết quả
 
 Chương trình chạy thành công và hiển thị danh sách 3 sinh viên có điểm từ 5 trở lên:
 
