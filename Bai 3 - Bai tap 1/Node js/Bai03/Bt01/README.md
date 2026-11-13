@@ -1,24 +1,33 @@
-## 1. Cách chạy tập tin bt01.js
+1. Cách chạy tập tin bai01.js
 
-- Mở thư mục chứa tập tin `bt01.js` bằng Visual Studio Code.
-- Mở Terminal trong VS Code.
-- Nhập lệnh sau:
+Bước 1: Mở Visual Studio Code.
 
-```bash
-node bt01.js
-```
+Bước 2: Chọn File → Open Folder.
 
-- Nhấn Enter để chạy chương trình.
+Bước 3: Chọn thư mục Bai 3 - Bai tap 1 và nhấn Select Folder.
 
-## 2. Mô tả kết quả
+Bước 4: Chọn Terminal → New Terminal để mở Terminal trong VS Code.
 
-Sau khi thực hiện lệnh `node bt01.js`, chương trình chạy thành công và hiển thị danh sách sinh viên có điểm từ 5 trở lên.
+Bước 5: Nhập lệnh sau để di chuyển đến thư mục chứa tập tin:
 
-Kết quả hiển thị 3 sinh viên:
-- SV001 – Vo Duy Anh – 20 tuổi – 8.5 điểm.
-- SV003 – Tran Thi Binh – 19 tuổi – 7.0 điểm.
-- SV005 – Pham Thi Dung – 20 tuổi – 6.5 điểm.
+cd "Node js\Bai03\Bt01"
 
-Hai sinh viên có điểm dưới 5 không được hiển thị.
+Bước 6: Nhập lệnh sau để chạy chương trình:
 
-Chương trình thực hiện đúng yêu cầu sử dụng JavaScript ES6 để quản lý và lọc thông tin sinh viên.
+node bai01.js
+
+Bước 7: Nhấn Enter để thực thi chương trình.
+
+2. Mô tả kết quả
+
+Chương trình chạy thành công và hiển thị danh sách 3 sinh viên có điểm từ 5 trở lên:
+
+SV001 – Vo Duy Anh – 20 tuổi – 8.5 điểm.
+
+SV003 – Tran Thi Binh – 19 tuổi – 7.0 điểm.
+
+SV005 – Pham Thi Dung – 20 tuổi – 6.5 điểm.
+
+Hai sinh viên SV002 (4.5 điểm) và SV004 (3.5 điểm) không được hiển thị vì có điểm dưới 5.
+
+Chương trình sử dụng class, constructor, arrow function, filter() và console.log() trong JavaScript ES6.
